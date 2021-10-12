@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   robot-shop:
   - apiVersion: v1
-    created: "2021-09-29T17:49:29.787395+08:00"
+    created: "2021-10-12T16:16:18.583782+08:00"
+    description: Sample micoservices application
+    digest: dc8d8c4b7b2386090dcaf6dd38850776d4ce03c4ef0ee343ab48d2743af438d6
+    home: https://github.com/instana/robot-shop
+    name: robot-shop
+    urls:
+    - https://hughhuangzh.github.io/hugh-helm-charts/robot-shop-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v1
+    created: "2021-10-12T16:16:18.582666+08:00"
     description: Sample micoservices application
     digest: 97b4b136bd702f933eca83f563e9c697ea08ea5db8fc9aaca7ad8b0fc28080ca
     home: https://github.com/instana/robot-shop
@@ -10,4 +19,4 @@ entries:
     urls:
     - https://hughhuangzh.github.io/hugh-helm-charts/robot-shop-1.1.0.tgz
     version: 1.1.0
-generated: "2021-09-29T17:49:29.785699+08:00"
+generated: "2021-10-12T16:16:18.579158+08:00"
